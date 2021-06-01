@@ -1,4 +1,4 @@
-blood_sugar 	when_taken	Date_and_time
+blood_sugar when_taken  Date_and_time
 7.4 mg/dL	BeforeBreakfast	Jun 1, 2021 07:36:47
 8.2 mg/dL	BeforeBreakfast	May 31, 2021 08:15:23
 8.7 mg/dL	BeforeBreakfast	May 29, 2021 08:14:38
